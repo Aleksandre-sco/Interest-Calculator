@@ -1,0 +1,21 @@
+body {
+    margin-top: 150px;
+    background-color: rgb(42, 42, 42);
+    font-family: arial;
+    color: white;
+}
+
+h1 {
+    color: black;
+    font-family: verdana;
+}
+
+.maindiv {
+    margin: auto;
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
